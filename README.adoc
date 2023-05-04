@@ -1,0 +1,10 @@
+= README
+
+== ERROR
+
+[source, shell]
+----
+Could not detect a board
+----
+
+Fuckkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
